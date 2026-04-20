@@ -4,10 +4,10 @@
 5+ years· Azure Databricks · AWS Glue · PySpark · dbt · Kafka · Delta Lake · Snowflake
 
 
-Currently | Data Engineer @ Citi (Financial Risk & Regulatory Reporting) |
-| Location | United States — open to on-site, hybrid, remote |
-| Open to | Senior Data Engineer roles in FinTech / Healthcare / E-commerce |
-| Certified | AWS Solutions Architect – Associate |
+Currently | Data Engineer @ Citi (Financial Risk & Regulatory Reporting) 
+| Location | United States — open to on-site, hybrid, remote 
+| Open to | Senior Data Engineer roles in FinTech / Healthcare / E-commerce 
+| Certified | AWS Solutions Architect – Associate 
 | Education | M.S. Computer Science, GPA 3.9 |
 
 ### Key metrics from production
