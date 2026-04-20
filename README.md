@@ -19,4 +19,4 @@ Currently | Data Engineer @ Citi (Financial Risk & Regulatory Reporting)
 - [Financial Data Lakehouse — Medallion Architecture](https://github.com/sujithdata012-code/data-engineering-portfolio/tree/main/medallion-pipeline)
 - [Real-Time Kafka → Spark → Delta Streaming Pipeline](https://github.com/sujithdata012-code/data-engineering-portfolio/tree/main/kafka-streaming)
 
-📧 sujith.data012@gmail.com · [LinkedIn](https://linkedin.com/in/sujith-reddy-manne)
+📧 sujith.data012@gmail.com · [sujithdata012-code.github.io](https://www.linkedin.com/in/sujithd013)
