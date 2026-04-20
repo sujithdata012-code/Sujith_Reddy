@@ -16,7 +16,7 @@ Currently | Data Engineer @ Citi (Financial Risk & Regulatory Reporting)
 - **25% query latency reduction** via Databricks + Delta Lake migration
 
 ### Featured projects
-- [Financial Data Lakehouse — Medallion Architecture](./medallion-pipeline)
+- [Financial Data Lakehouse — Medallion Architecture](https://github.com/sujithdata012-code/data-engineering-portfolio/tree/main/medallion-pipeline)
 - [Real-Time Kafka → Spark → Delta Streaming Pipeline](./kafka-streaming)
 
 📧 sujith.data012@gmail.com · [LinkedIn](https://linkedin.com/in/sujith-reddy-manne)
